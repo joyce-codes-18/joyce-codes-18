@@ -1,16 +1,17 @@
-## Hi there 👋
+# Howdy? I'm Jyz_ 🎀
 
-<!--
-**joyce-codes-18/joyce-codes-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity Enthusiast
+- 🚩 Active CTF Player
+- Focusing on **Web Exploitation** and **Cryptography**
+- Check out my complete CTF writeups and exploit scripts in my pinned repository!
 
-Here are some ideas to get you started:
+---
+### Tech Stack & Tools
+`Linux` • `Figma` • `Java` • `Tailwind CSS` • `HTML & CSS`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### Check This Out
+- [ctf-writeups](https://github.com/joyce-codes-18/cyber-runes)
+
+---
+## Let's Collab!!
