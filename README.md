@@ -3,7 +3,7 @@
 ### Cybersecurity Enthusiast
 - 🚩 Active CTF Player
 - Focusing on **Web Exploitation** and **Cryptography**
-- Check out my complete CTF writeups and exploit scripts in my pinned repository!
+- Check out my CTF writeups and exploit scripts in my pinned repository!
 
 ---
 ### Tech Stack & Tools
